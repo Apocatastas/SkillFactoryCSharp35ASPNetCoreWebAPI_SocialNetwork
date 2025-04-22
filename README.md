@@ -15,3 +15,4 @@ A project to learn GitFlow and team work, and to improve common ASP.Net WebAPI k
 * ...
 
 
+Это тест на merge 1
