@@ -10,8 +10,11 @@ A project to learn GitFlow and team work, and to improve common ASP.Net WebAPI k
 * Ready Social Network Solution
 
 ### Backlog
-* one
-* two
-* ...
+* Регистрация
+* Авторизация
+* Страница пользователя с отображением фото, имени
+* Изменение данных пользователя
+* Добавление друзей
+* Отправка сообщений друзьям
 * тест на merge
 
