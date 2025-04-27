@@ -31,6 +31,9 @@
     background-color: white;
 }
 
+.right-align {
+    float: right;
+}
 .main-img {
     width: 100%;
     max-width: max-content;
